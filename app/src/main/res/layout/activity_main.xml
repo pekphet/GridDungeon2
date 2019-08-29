@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mainBg"
+    android:orientation="vertical"
+    tools:context=".ui.pages.MainActivity">
+    
+    <TextView
+        style="@style/TextMainColor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:text="方块地下城II"
+        android:textSize="28dp" />
+    
+    <TextView
+        style="@style/TextMainColor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Ver 0.0.1 dev"
+        android:textSize="16dp" />
+    
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+    
+    <cn.dogrid.griddungeon2.ui.view.TapCard
+        android:id="@+id/cardMainSlot1"
+        style="@style/CardButton"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"
+        app:cardCornerRadius="16dp">
+        
+        <TextView
+            android:id="@+id/tvMainSlot1"
+            style="@style/TextInCardColor"
+            android:text="新建角色" />
+    
+    </cn.dogrid.griddungeon2.ui.view.TapCard>
+    
+    <cn.dogrid.griddungeon2.ui.view.TapCard
+        android:id="@+id/cardMainSlot2"
+        style="@style/CardButton"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"
+        app:cardCornerRadius="16dp">
+        
+        <TextView
+            android:id="@+id/tvMainSlot2"
+            style="@style/TextInCardColor"
+            android:text="新建角色" />
+    
+    </cn.dogrid.griddungeon2.ui.view.TapCard>
+    
+    <cn.dogrid.griddungeon2.ui.view.TapCard
+        android:id="@+id/cardMainSlot3"
+        style="@style/CardButton"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="80dp"
+        app:cardCornerRadius="16dp">
+        
+        <TextView
+            android:id="@+id/tvMainSlot3"
+            style="@style/TextInCardColor"
+            android:text="新建角色" />
+    
+    </cn.dogrid.griddungeon2.ui.view.TapCard>
+
+</LinearLayout>
