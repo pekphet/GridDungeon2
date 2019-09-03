@@ -1,10 +1,10 @@
-package cn.dogrid.griddungeon2.ui.bean
+package cn.dogrid.griddungeon2.bean
 
 import cn.dogrid.griddungeon2.ui.BasePropertyValue
 import cn.dogrid.griddungeon2.ui.FinalPropertyValue
-import cn.dogrid.griddungeon2.ui.enums.Elements
-import cn.dogrid.griddungeon2.ui.enums.EquipRarity
-import cn.dogrid.griddungeon2.ui.enums.EquipType
+import cn.dogrid.griddungeon2.enums.Elements
+import cn.dogrid.griddungeon2.enums.EquipRarity
+import cn.dogrid.griddungeon2.enums.EquipType
 
 //Interfaces
 

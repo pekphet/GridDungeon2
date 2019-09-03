@@ -1,4 +1,4 @@
-package cn.dogrid.griddungeon2.ui.ex
+package cn.dogrid.griddungeon2.ex
 
 import android.content.Context
 import android.widget.Toast

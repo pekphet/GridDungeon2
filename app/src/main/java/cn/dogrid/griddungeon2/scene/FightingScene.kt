@@ -1,7 +1,7 @@
-package cn.dogrid.griddungeon2.ui.scene
+package cn.dogrid.griddungeon2.scene
 
-import cn.dogrid.griddungeon2.ui.bean.MonsterDO
-import cn.dogrid.griddungeon2.ui.bean.SelfInfoDO
+import cn.dogrid.griddungeon2.bean.MonsterDO
+import cn.dogrid.griddungeon2.bean.SelfInfoDO
 
 class FightingScene {
     fun tap(isFirst: Boolean) {

@@ -6,7 +6,7 @@ import android.util.Log
 import android.view.MotionEvent
 import android.widget.TextView
 import androidx.cardview.widget.CardView
-import cn.dogrid.griddungeon2.ui.ex.minusLeast
+import cn.dogrid.griddungeon2.ex.minusLeast
 
 class TapCard(ctx: Context, attrs: AttributeSet) : CardView(ctx, attrs) {
 

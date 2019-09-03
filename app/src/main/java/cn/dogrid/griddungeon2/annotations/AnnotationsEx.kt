@@ -1,4 +1,4 @@
-package cn.dogrid.griddungeon2.ui.annotations
+package cn.dogrid.griddungeon2.annotations
 
 import kotlin.reflect.KClass
 

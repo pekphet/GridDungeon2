@@ -3,7 +3,7 @@ package cn.dogrid.griddungeon2.ui.pages
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import cn.dogrid.griddungeon2.R
-import cn.dogrid.griddungeon2.ui.manager.SelfManager
+import cn.dogrid.griddungeon2.manager.SelfManager
 import kotlinx.android.synthetic.main.activity_main.*
 
 //Login Activity

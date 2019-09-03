@@ -1,4 +1,4 @@
-package cn.dogrid.griddungeon2.ui.enums
+package cn.dogrid.griddungeon2.enums
 
 enum class Elements(val desc: String, val id: Int) {
 	NA("无", 0),

@@ -1,4 +1,4 @@
-package cn.dogrid.griddungeon2.ui.enums
+package cn.dogrid.griddungeon2.enums
 
 enum class PropertiesEnum(val desc: String) {
 	MAX_HP("最大生命值"),

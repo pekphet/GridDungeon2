@@ -1,4 +1,4 @@
-package cn.dogrid.griddungeon2.ui.manager
+package cn.dogrid.griddungeon2.manager
 
 object SelfManager {
 

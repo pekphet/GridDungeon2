@@ -1,4 +1,4 @@
-package cn.dogrid.griddungeon2.ui.enums
+package cn.dogrid.griddungeon2.enums
 
 import android.graphics.Color
 

@@ -1,4 +1,4 @@
-package cn.dogrid.griddungeon2.ui.ex
+package cn.dogrid.griddungeon2.ex
 
 fun Float.minusLeast(minus: Float, least: Float = 0f) = (this - minus).coerceAtLeast(least)
 fun Int.minusLeast(minus: Int, least: Int = 0) = (this - minus).coerceAtLeast(least)

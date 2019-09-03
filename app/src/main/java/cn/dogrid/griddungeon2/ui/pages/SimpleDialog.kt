@@ -5,7 +5,7 @@ import android.content.Context
 import android.widget.EditText
 import android.widget.TextView
 import cn.dogrid.griddungeon2.R
-import cn.dogrid.griddungeon2.ui.ex.toast
+import cn.dogrid.griddungeon2.ex.toast
 import cn.dogrid.griddungeon2.ui.view.TapCard
 
 

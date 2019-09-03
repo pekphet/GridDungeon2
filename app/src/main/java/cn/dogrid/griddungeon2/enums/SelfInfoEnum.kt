@@ -1,4 +1,4 @@
-package cn.dogrid.griddungeon2.ui.enums
+package cn.dogrid.griddungeon2.enums
 
 
 //Take the extensions of direct properties by equip, buf, and skill, etc.
